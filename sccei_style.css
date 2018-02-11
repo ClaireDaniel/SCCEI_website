@@ -1,0 +1,39 @@
+.vision-statement {
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.highlights {
+    float: left;
+    width: 33.33%;
+    height: 60px;
+    width: calc(100% / 3 - 6px);
+    border-width:1px;
+    border-style: solid;
+    border-color: #f6891f;
+
+    border-bottom: medium none #ffffff;
+    border-color:#002d56;
+    border-left: medium none #ffffff;
+    border-style: none solid none none;
+    border-top: medium none #ffffff;
+    line-height: 14px;
+    background: #ffffff;
+
+    
+}
+
+p.highlights-heading{
+    color: #f6891f;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 5px;
+}
+
+p.highlights-text{
+    color: black;
+    line-height: 15px;
+    font-size: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
