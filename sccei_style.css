@@ -23,6 +23,10 @@
     
 }
 
+.highlights-end {
+    border-right: medium none #ffffff;
+}
+
 p.highlights-heading{
     color: #f6891f;
     padding-left: 5%;
